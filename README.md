@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @XLobsX
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C language
